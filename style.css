@@ -3,3 +3,13 @@ body{
     margin: 0px;
     padding: 0px;
 }
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+
+}
+.half-width img{
+    width: 80%;
+}
