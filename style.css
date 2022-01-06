@@ -1,15 +1,101 @@
 body{
-    color: #edf1fd;
+    background-color: #edf1fd;
     margin: 0px;
     padding: 0px;
 }
+h3{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+h2{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+       
+}
+#hello{
+    margin-bottom: -30px;
+    margin-top: -4px;
+}
+h1{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+}
+p{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+.pink{
+    color: crimson;
+}
+.my-goal{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.hello{
+    border-left: 5px solid rgb(36, 36, 36);
+    height: 120px;
+    padding-left: 8px;
+    padding-bottom: 6px;
+    margin-top: 8%;
+    border-radius: 5px;
+}
+.top-margin{
+    margin-top:7%;
+}
 .flexible-container{
     display: flex;
+    margin-bottom: 10%;
+    margin-left: 10%;
 }
 .half-width{
     width: 40%;
 
 }
 .half-width img{
-    width: 80%;
+    width: 60%;
+}
+a{
+    text-decoration: none;
+    background-color:indianred;
+    padding: 10px 30px;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+    border-radius: 4px;
+
+}
+.img-1{
+    padding-left: 250px;
+    padding-top: 50px;
+    
+}
+#box-1, #box-2, #box-3{
+    height: 420px;
+    width: 335px;
+    margin-right: 5%;
+    border-radius: 25px;
+    padding:0px 15px;
+
+
+}
+
+#miss{
+    margin-top: 10%;
+}
+#box-1{
+    background-color: khaki;
+}
+#box-2{
+    background-color: lightsalmon;
+}
+#box-3{
+    background-color: lightsteelblue;
+}
+.img-margin{
+    margin-left: 20%;
+}
+.txt-margin{
+    margin-left: 5%;
 }
