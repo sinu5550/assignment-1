@@ -80,12 +80,21 @@ a{
 
 
 }
+#box-1 img, #box-2 img, #box-3 img{
+    height: 150px;
+    width: auto;
+    margin-top: 10%;
+}
 
 #miss{
     margin-top: 10%;
 }
 #box-1{
     background-color: khaki;
+    
+}
+#box-1 img{
+    margin-bottom: -4%;
 }
 #box-2{
     background-color: lightsalmon;
