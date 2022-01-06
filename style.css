@@ -115,10 +115,41 @@ a{
 .txt-margin{
     margin-left: 5%;
 }
+.coding-bg{
+    background-image: url(./shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:left center;
+    background-size: 15%;
+    background-position-x: 5%;
+    
+}
+.project-bg{
+    background-image: url(./shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:right center;
+    background-size: 15%;
+    background-position-y:bottom;
+    background-position-x: 90%;
+
+    
+}
+.last-img img{
+    margin-top: 15%;
+
+}
 .pro-web{
     font-family: 'Poppins',sans-serif;
     line-height: 50px;
 }
+.last-sec{
+    background-image: url(./shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position:center ;   
+    background-position-x: 12%;
+     
+}
+
 .footer{
     text-align: center;
     height: 150px;
